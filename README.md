@@ -49,6 +49,16 @@ HTTP Trigger
 
 The workflow was tested using sample Shopify webhook payloads in Pipedream.
 
+<img width="1918" height="1062" alt="image" src="https://github.com/user-attachments/assets/2854a7ef-4bdd-4e20-af0d-e487d733dd36" />
+
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/9867fe18-3137-4df2-a5a8-fb38bcc4bf58" />
+
+<img width="1043" height="508" alt="image" src="https://github.com/user-attachments/assets/582b12b2-b53b-44bd-9c4a-3c5a97f7acf6" />
+
+<img width="1005" height="478" alt="image" src="https://github.com/user-attachments/assets/0fdf6930-db1f-430e-b32c-acbb3945e8fc" />
+<img width="1038" height="568" alt="image" src="https://github.com/user-attachments/assets/3f0a5c7a-40f8-4707-933e-41f265179a6d" />
+
+
 ## Author
 
 Nilesh Pandey
