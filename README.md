@@ -58,6 +58,9 @@ The workflow was tested using sample Shopify webhook payloads in Pipedream.
 <img width="1005" height="478" alt="image" src="https://github.com/user-attachments/assets/0fdf6930-db1f-430e-b32c-acbb3945e8fc" />
 <img width="1038" height="568" alt="image" src="https://github.com/user-attachments/assets/3f0a5c7a-40f8-4707-933e-41f265179a6d" />
 
+<img width="1541" height="305" alt="image" src="https://github.com/user-attachments/assets/b748d877-681f-4939-98b5-f4f557ce3cbd" />
+
+
 
 ## Author
 
